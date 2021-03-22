@@ -13,6 +13,10 @@ Run `ng generate component component-name` to generate a new component. You can 
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+This will also deploy the site to loa.gay, it might take a while <----
+
+## Deploy
+Will deploy to the site. Just use ng build tho
 
 ## Running unit tests
 
